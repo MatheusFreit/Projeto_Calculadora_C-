@@ -7,3 +7,19 @@ Depois que o usuário seleciona uma opção, o programa executa a operação mat
 
 Este projeto pode ser usado como um exemplo básico para iniciantes em C# que desejam aprender a usar comandos condicionais, entrada/saída básica de dados e formatação de saída de dados.
 
+Exemplo 01 - Somando: 
+<br>
+<img  width= "450" height = "450" src="https://github.com/MatheusFreit/Projeto_com_Csharp/blob/master/Projeto_com_C%23/imagens/Somando.png" Alt = "Somando">
+<br>
+Exemplo 02 - Subtraindo: 
+<br>
+<img  width= "450" height = "450" src="https://github.com/MatheusFreit/Projeto_com_Csharp/blob/master/Projeto_com_C%23/imagens/Subtraindo.png" Alt = "Subtraindo">
+<br>
+Exemplo 03 - Multiplicando: 
+<br>
+<img  width= "450" height = "450" src="https://github.com/MatheusFreit/Projeto_com_Csharp/blob/master/Projeto_com_C%23/imagens/Multiplicando.png" Alt = "Multiplicando">
+<br>
+Exemplo 04 - Multiplicando: 
+<br>
+<img  width= "450" height = "450" src="https://raw.githubusercontent.com/MatheusFreit/Projeto_com_Csharp/master/Projeto_com_C%23/imagens/Dividindo.png" Alt = "Dividindo">
+<br>
