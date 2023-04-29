@@ -1,0 +1,8 @@
+D:\CURSO DE PROGRAMAÇÃO\C#\Projeto com C#\Projeto_com_C#\obj\Debug\Projeto_com_C#.csproj.AssemblyReference.cache
+D:\CURSO DE PROGRAMAÇÃO\C#\Projeto com C#\Projeto_com_C#\obj\Debug\Projeto_com_C#.csproj.SuggestedBindingRedirects.cache
+D:\CURSO DE PROGRAMAÇÃO\C#\Projeto com C#\Projeto_com_C#\obj\Debug\Projeto_com_C#.csproj.CoreCompileInputs.cache
+D:\CURSO DE PROGRAMAÇÃO\C#\Projeto com C#\Projeto_com_C#\bin\Debug\Projeto_com_C#.exe.config
+D:\CURSO DE PROGRAMAÇÃO\C#\Projeto com C#\Projeto_com_C#\bin\Debug\Projeto_com_C#.exe
+D:\CURSO DE PROGRAMAÇÃO\C#\Projeto com C#\Projeto_com_C#\bin\Debug\Projeto_com_C#.pdb
+D:\CURSO DE PROGRAMAÇÃO\C#\Projeto com C#\Projeto_com_C#\obj\Debug\Projeto_com_C#.exe
+D:\CURSO DE PROGRAMAÇÃO\C#\Projeto com C#\Projeto_com_C#\obj\Debug\Projeto_com_C#.pdb
