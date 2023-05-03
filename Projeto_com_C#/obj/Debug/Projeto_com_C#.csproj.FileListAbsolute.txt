@@ -17,3 +17,11 @@ D:\CURSO DE PROGRAMAÇÃO\C#\Projeto_Pessoal\Projeto_com_Csharp\Projeto_com_C#\o
 D:\CURSO DE PROGRAMAÇÃO\C#\Projeto_Pessoal\Projeto_com_Csharp\Projeto_com_C#\obj\Debug\Projeto_com_C#.exe
 D:\CURSO DE PROGRAMAÇÃO\C#\Projeto_Pessoal\Projeto_com_Csharp\Projeto_com_C#\obj\Debug\Projeto_com_C#.pdb
 >>>>>>> 6bdb29b (atualizando o codigo)
+D:\CURSO DE PROGRAMAÇÃO\C#\Projeto_Pessoal\teste\Projeto_com_C#\bin\Debug\Projeto_com_C#.exe.config
+D:\CURSO DE PROGRAMAÇÃO\C#\Projeto_Pessoal\teste\Projeto_com_C#\bin\Debug\Projeto_com_C#.exe
+D:\CURSO DE PROGRAMAÇÃO\C#\Projeto_Pessoal\teste\Projeto_com_C#\bin\Debug\Projeto_com_C#.pdb
+D:\CURSO DE PROGRAMAÇÃO\C#\Projeto_Pessoal\teste\Projeto_com_C#\obj\Debug\Projeto_com_C#.csproj.AssemblyReference.cache
+D:\CURSO DE PROGRAMAÇÃO\C#\Projeto_Pessoal\teste\Projeto_com_C#\obj\Debug\Projeto_com_C#.csproj.SuggestedBindingRedirects.cache
+D:\CURSO DE PROGRAMAÇÃO\C#\Projeto_Pessoal\teste\Projeto_com_C#\obj\Debug\Projeto_com_C#.csproj.CoreCompileInputs.cache
+D:\CURSO DE PROGRAMAÇÃO\C#\Projeto_Pessoal\teste\Projeto_com_C#\obj\Debug\Projeto_com_C#.exe
+D:\CURSO DE PROGRAMAÇÃO\C#\Projeto_Pessoal\teste\Projeto_com_C#\obj\Debug\Projeto_com_C#.pdb
