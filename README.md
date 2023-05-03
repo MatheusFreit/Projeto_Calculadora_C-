@@ -19,7 +19,7 @@ Exemplo 03 - Multiplicando:
 <br>
 <img  width= "450" height = "450" src="https://github.com/MatheusFreit/Projeto_com_Csharp/blob/master/Projeto_com_C%23/imagens/Multiplicando.png" Alt = "Multiplicando">
 <br>
-Exemplo 04 - Multiplicando: 
+Exemplo 04 - Multiplicando:
 <br>
 <img  width= "450" height = "450" src="https://raw.githubusercontent.com/MatheusFreit/Projeto_com_Csharp/master/Projeto_com_C%23/imagens/Dividindo.png" Alt = "Dividindo">
 <br>
