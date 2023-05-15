@@ -1,4 +1,4 @@
-# Projeto_com_C#
+# Projeto_Calculadora_C#
  Meu projeto de aprendizado em C# - compartilhando meu progresso no GitHub!
 
 Este projeto em C# é um programa simples que permite ao usuário realizar cálculos matemáticos básicos. O programa solicita que o usuário insira dois números inteiros e, em seguida, oferece uma lista de opções para que o usuário possa escolher qual operação matemática deseja realizar - soma, subtração, multiplicação ou divisão.
